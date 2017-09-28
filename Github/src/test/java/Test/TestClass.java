@@ -6,7 +6,11 @@ public class TestClass {
 	
 	@Test
 	public void Result(){
-		System.out.println("Test Result");
+		System.out.println("Test Result1");
+		System.out.println("Test Result2");
+
+		System.out.println("Test Result3");
+
 	}
 
 }
